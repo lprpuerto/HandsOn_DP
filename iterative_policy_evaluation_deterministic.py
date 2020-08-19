@@ -1,7 +1,4 @@
 # Original source: https://github.com/lazyprogrammer/machine_learning_examples rl
-
-#from __future__ import print_function, division
-from builtins import range
 import numpy as np
 
 from grid_world import action_space, standard_grid
